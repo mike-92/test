@@ -25,7 +25,7 @@
                 <a href="mailto:info@bazagf.ru"></a> 
             </div>
             <div class="social">
-                <a href="#" class="social-facebook" title="Facebookii"></a>
+                <a href="#" class="social-facebook" title="Facebook"></a>
                 <a href="#" class="social-vk" title="VK"></a>
                 <a href="#" class="social-ok" title="Ok"></a>
                 <a href="#" class="social-linkedin" title="LinkedIn"></a>
