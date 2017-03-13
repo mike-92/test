@@ -1,6 +1,6 @@
 {
 wedwegerg
-reg
+res
 erg
 }
 
@@ -18,4 +18,8 @@ rth
 rt
 h
 rthtr
+}
+
+{
+w
 }
