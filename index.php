@@ -1,8 +1,20 @@
-mkochev741
-<<<<<<< HEAD
-11111111111111
-rjvvbnugy7ygluguiuilguigohligbuvojoobgbiogoihoioiohhioohi
-=======
-smile74101
-9999999999999999
->>>>>>> origin/master
+{
+wedwegerg
+reg
+erg
+}
+
+
+{
+efuwervohwrev
+tr
+bgrt
+h
+h
+rth
+rt
+h
+rthtr
+}
+
+
