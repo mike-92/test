@@ -16,8 +16,3 @@ rt
 h
 rthtr
 }
-
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
