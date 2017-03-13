@@ -12,6 +12,14 @@ efuwervohwrev
 tr
 bgrt
 h
+ы
+ва
+вы
+авыаыва
+ыв
+аds
+в
+ыв
 h
 rth
 rt
