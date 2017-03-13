@@ -2,6 +2,8 @@
 wedwegerg
 res
 erg
+Добавил я
+d
 }
 
 
@@ -23,4 +25,5 @@ rthtr
 
 {
 w
+d
 }
