@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+dfsegsg
+=======
+<<<<<<< HEAD
+544544455
+=======
+>>>>>>> origin/master
 
 
 
@@ -8,4 +17,26 @@
 
 
 
+<<<<<<< HEAD
 sgrbdrh
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+234233246
+<<<<<<< HEAD
+ygjfjfjf
+=======
+>>>>>>> c6fa62ece43315ffdf9540f7ae72fd2fd0505bd4
+>>>>>>> origin/master
+>>>>>>> aee4929577664587bd71bed89e2df439d4f40318
+>>>>>>> origin/master
