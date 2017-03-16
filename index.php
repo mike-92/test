@@ -26,6 +26,11 @@ mkochev{
 	qwerty
 }
 
+mkochev2{
+	qwerty
+}
+
+
 
 {
 smile74101
